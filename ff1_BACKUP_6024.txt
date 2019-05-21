@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+This is first Bob.
+=======
+This is first alish.
+>>>>>>> alis change in file ff1.txt
